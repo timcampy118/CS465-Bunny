@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tim\Desktop\New folder (3)\SkeletonCode\build\CMakeFiles\11f7b77c4bd6536be2a45dd00a783d68\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CB020462-5870-3645-BA50-EF70BEC96950}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
